@@ -1,0 +1,2 @@
+povoado = [['Thiago', 27],['Maria',30],['Vinícios', 29]]
+print(povoado[0])
